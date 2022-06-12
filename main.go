@@ -1,12 +1,9 @@
 package main
 
 /*
-
-#cgo CFLAGS: -I./src
 #cgo LDFLAGS: -L. -lmylib
 #include "c-lib/mylib.h"
 #include <stdlib.h>
-#include <stdio.h>
 */
 import "C"
 
