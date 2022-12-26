@@ -1,4 +1,4 @@
-# Call "C" library from "golang"
+# Call C library from golang
 
 Call you C code from golang
 
